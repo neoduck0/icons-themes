@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 
-theme=
-icon_theme=
-font=
+theme=Gruvbox-Grey-Dark-Medium
+icon_theme=Gruvbox-Material-Dark
+font="JetBrainsMono Nerd Font Propo"
 
 font_doc=$font
 font_mono=$font
